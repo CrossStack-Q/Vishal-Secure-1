@@ -1,0 +1,89 @@
+{
+    "hero": {
+    "title": "Designflow Blog",
+    "categories": [
+      "All Articles",
+      "UI/UX",
+      "Web Design",
+      "Framer",
+      "Webflow",
+      "Marketing",
+      "Growth",
+      "Branding"
+    ]
+  },
+  "featured": {
+    "id": 1,
+    "image": "/L1.png",
+    "date": "MAY 20, 2024",
+    "readTime": "5 MIN READ",
+    "title": "Framer vs. Figma: Which Tool Should You Choose for Your Next Project?",
+    "tags": ["Framer", "Web Design"]
+  },
+
+  "blogs": [
+    {
+      "id": 1,
+      "image": "Card1.jpg",
+      "category": "Web Design",
+      "date": "MAY 20, 2024",
+      "title": "Maximizing Conversion Rates: The Power of Minimalist Web Design"
+    },
+    {
+      "id": 2,
+      "image": "Card1.jpg",
+      "category": "Webflow",
+      "date": "MAY 20, 2024",
+      "title": "Webflow vs. Traditional Web Development: Which Is Better for Your Business?"
+    },
+    {
+      "id": 3,
+      "image": "Card1.jpg",
+      "category": "UI/UX",
+      "date": "MAY 20, 2024",
+      "title": "10 UI/UX Design Trends That Will Define 2024"
+    },
+    {
+      "id": 4,
+      "image": "Card1.jpg",
+      "category": "Web Design",
+      "date": "MAY 20, 2024",
+      "title": "Maximizing Conversion Rates: The Power of Minimalist Web Design"
+    },
+    {
+      "id": 5,
+      "image": "Card1.jpg",
+      "category": "Webflow",
+      "date": "MAY 20, 2024",
+      "title": "Webflow vs. Traditional Web Development: Which Is Better for Your Business?"
+    },
+    {
+      "id": 6,
+      "image": "Card1.jpg",
+      "category": "UI/UX",
+      "date": "MAY 20, 2024",
+      "title": "10 UI/UX Design Trends That Will Define 2024"
+    },
+    {
+      "id": 7,
+      "image": "Card1.jpg",
+      "category": "Web Design",
+      "date": "MAY 20, 2024",
+      "title": "Maximizing Conversion Rates: The Power of Minimalist Web Design"
+    },
+    {
+      "id": 8,
+      "image": "Card1.jpg",
+      "category": "Webflow",
+      "date": "MAY 20, 2024",
+      "title": "Webflow vs. Traditional Web Development: Which Is Better for Your Business?"
+    },
+    {
+      "id": 9,
+      "image": "Card1.jpg",
+      "category": "UI/UX",
+      "date": "MAY 20, 2024",
+      "title": "10 UI/UX Design Trends That Will Define 2024"
+    }
+  ]
+}
