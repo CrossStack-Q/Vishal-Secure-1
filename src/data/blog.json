@@ -1,89 +1,90 @@
 {
-    "hero": {
+  "hero": {
     "title": "Designflow Blog",
     "categories": [
       "All Articles",
-      "UI/UX",
-      "Web Design",
-      "Framer",
-      "Webflow",
-      "Marketing",
-      "Growth",
-      "Branding"
+      "Go Backend",
+      "API Security",
+      "Cybersecurity",
+      "Docker",
+      "Kubernetes",
+      "DevOps",
+      "Cloud Security"
     ]
   },
+
   "featured": {
     "id": 1,
-    "image": "/logo.svg",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/f60ffc216024351.6787dc1325841.jpg",
     "date": "MAY 20, 2024",
     "readTime": "5 MIN READ",
-    "title": "Framer vs. Figma: Which Tool Should You Choose for Your Next Project?",
-    "tags": ["Framer", "Web Design"]
+    "title": "Go vs. Node: Which Backend Shields Your API Better in 2024?",
+    "tags": ["GoLang", "API Security"]
   },
 
   "blogs": [
     {
       "id": 1,
       "image": "Card1.jpg",
-      "category": "Web Design",
+      "category": "Go Backend",
       "date": "MAY 20, 2024",
-      "title": "Maximizing Conversion Rates: The Power of Minimalist Web Design"
+      "title": "Why Go Is Becoming the Backbone of High-Security APIs"
     },
     {
       "id": 2,
       "image": "Card1.jpg",
-      "category": "Webflow",
+      "category": "Docker",
       "date": "MAY 20, 2024",
-      "title": "Webflow vs. Traditional Web Development: Which Is Better for Your Business?"
+      "title": "Secure Containerization: Hardening Your Docker Pipeline"
     },
     {
       "id": 3,
       "image": "Card1.jpg",
-      "category": "UI/UX",
+      "category": "Cybersecurity",
       "date": "MAY 20, 2024",
-      "title": "10 UI/UX Design Trends That Will Define 2024"
+      "title": "Top API Attack Vectors in 2024 and How Go Defends Against Them"
     },
     {
       "id": 4,
       "image": "Card1.jpg",
-      "category": "Web Design",
+      "category": "Kubernetes",
       "date": "MAY 20, 2024",
-      "title": "Maximizing Conversion Rates: The Power of Minimalist Web Design"
+      "title": "Securing Kubernetes Clusters: A Practical Guide for Modern DevTeams"
     },
     {
       "id": 5,
       "image": "Card1.jpg",
-      "category": "Webflow",
+      "category": "DevOps",
       "date": "MAY 20, 2024",
-      "title": "Webflow vs. Traditional Web Development: Which Is Better for Your Business?"
+      "title": "CI/CD Security: Protecting Your Build Pipelines from Hidden Threats"
     },
     {
       "id": 6,
       "image": "Card1.jpg",
-      "category": "UI/UX",
+      "category": "Go Backend",
       "date": "MAY 20, 2024",
-      "title": "10 UI/UX Design Trends That Will Define 2024"
+      "title": "Goroutines, Channels, and Zero-Trust: A Fresh Look at Go Concurrency Security"
     },
     {
       "id": 7,
       "image": "Card1.jpg",
-      "category": "Web Design",
+      "category": "Cybersecurity",
       "date": "MAY 20, 2024",
-      "title": "Maximizing Conversion Rates: The Power of Minimalist Web Design"
+      "title": "Minimal-Surface APIs: Reducing Your Attack Footprint"
     },
     {
       "id": 8,
       "image": "Card1.jpg",
-      "category": "Webflow",
+      "category": "Cloud Security",
       "date": "MAY 20, 2024",
-      "title": "Webflow vs. Traditional Web Development: Which Is Better for Your Business?"
+      "title": "API Gateway vs. Service Mesh: Who Guards the Cloud Castle Better?"
     },
     {
       "id": 9,
       "image": "Card1.jpg",
-      "category": "UI/UX",
+      "category": "Docker",
       "date": "MAY 20, 2024",
-      "title": "10 UI/UX Design Trends That Will Define 2024"
+      "title": "Container Security Essentials: Vulnerability Scanning for Busy Teams"
     }
   ]
 }
